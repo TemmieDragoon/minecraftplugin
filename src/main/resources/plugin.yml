@@ -1,0 +1,3 @@
+name: Testplugin
+version: ${project.version}
+main: nl.mikuhq.testplugin.Testplugin
